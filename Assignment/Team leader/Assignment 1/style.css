@@ -1,0 +1,71 @@
+*{
+    margin: 20;
+    padding: 0;
+    position:center ;   
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+.profile-box{
+    background:#4a92ffaa;
+    text-align: center;
+    padding: 20px 70px;
+    color:#0b0b0b;
+    position: relative;
+    border-radius: 50px;
+}
+.setting-icon{
+    width: 40px;
+    position: absolute;
+    right:20px;
+    top: 40px;
+}
+.menu-icon{
+    width:45px;
+    position: absolute;
+    left: 20px;
+    top: 40x;
+}
+.wallpaper-icon{
+    width: 200px;
+    border-radius: 30%;
+    background: #f703b2;
+    padding: 10px 10px;
+    margin-top: 40px;
+}
+.profile-bottom{
+    background: #ea04b5;
+    color:#f00606;
+    padding: 60px;
+    margin-right: -90px;
+    margin-left: -90px;
+    margin-bottom: -40px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.profile-bottom img{
+    width: 30px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.profile-box button{
+    background: #3b06fa;
+    color: #f3fff1;
+    border: none;
+    outline: none;
+    box-shadow: 0 5px 10px rgba(244,67,54,o.5);
+    padding: 15px 60px;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 50px;
+}
+.profile-box h3,h4,h5{
+    font-size: 30px;
+    margin-top: -10px;
+    font-weight: 300;
+}
+.profile-box p1,p2{
+    font-size: 30px;
+    font-weight: 100;
+}
